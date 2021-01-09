@@ -1,0 +1,18 @@
+<section class="page-section portfolio" id="professors">
+    <div *ngIf=" professorsGroupedList" >
+        <!-- Section Heading-->
+        <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Professors</h2>
+        <!-- Icon Divider-->
+        <div class="divider-custom">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon"><i class="fas fa-university"></i></div>
+            <div class="divider-custom-line"></div>
+        </div>
+
+        <div *ngFor="let professorGroup of professorsGroupedList;" class="row m-5 m-md-1 professors d-flex justify-content-around">
+            <app-professor-item *ngFor="let professor of professorGroup;" [professor]="professor"
+                class="col-12 col-xs-6 col-sm-6 col-md-4 col-lg-2 mb-5">
+            </app-professor-item>
+        </div>
+    </div>
+</section>

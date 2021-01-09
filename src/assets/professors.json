@@ -1,0 +1,108 @@
+{
+    "professors": [
+        {
+          "name": "Anderson Maciel",
+          "education": "Ph.D. in Computer Science, École Polytechnique Fédérale de Lausanne, Switzerland (2005)",
+          "fieldsOfStudy": [
+            "Virtual reality",
+            "Augmented Reality",
+            "Interaction"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~amaciel",
+          "photoUrl": "anderson.png"
+        },
+        {
+          "name": "Carla Maria Dal Sasso Freitas",
+          "education": "Ph.D. in Computer Science, Universidade Federal do Rio Grande do Sul, Brazil (1994)",
+          "fieldsOfStudy": [
+            "Data visualization",
+            "Immersive visualization",
+            "Interaction"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~carla",
+          "photoUrl": "carla.jpg"
+        },
+        {
+          "name": "Claudio Rosito Jung",
+          "education": "Ph.D. in Computer Science, Universidade Federal do Rio Grande do Sul, Brazil (2002)",
+          "fieldsOfStudy": [
+            "Image processing",
+            "Computer vision",
+            "Pattern recognition"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~crjung/",
+          "photoUrl": "cjung.jpg"
+        },
+        {
+          "name": "Eduardo Simões Lopes Gastal",
+          "education": "Ph.D. in Computer Science, Universidade Federal do Rio Grande do Sul, Brazil (2015)",
+          "fieldsOfStudy": [
+            "Image processing",
+            "Video processing",
+            "Computer graphics"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~eslgastal",
+          "photoUrl": "eduardo_gastal.jpg"
+        },
+        {
+          "name": "Jacob Scharcanski",
+          "education": "Ph.D. in Systems Design Engineering, University of Waterloo, Canada (1994)",
+          "fieldsOfStudy": [
+            "Image processing",
+            "Pattern recognition",
+            "Computer vision",
+            "Computational finance"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~jacobs/",
+          "photoUrl": "jacob.jpg"
+        },
+        {
+          "name": "João Luiz Dihl Comba",
+          "education": "Ph.D. in Computer Science, Stanford University, USA (2000)",
+          "fieldsOfStudy": [
+            "Visual analytics",
+            " Data science",
+            "Data visualization"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~comba",
+          "photoUrl": "comba.jpg"
+        },
+        {
+          "name": "Luciana Nedel",
+          "education": "Ph.D. in Computer Science, École Polytechnique Fédérale de Lausanne, Switzerland (1998)",
+          "fieldsOfStudy": [
+            "Virtual reality",
+            "Augmented reality",
+            "Immersive visualization",
+            "Interaction",
+            "Data visualization"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~nedel",
+          "photoUrl": "luciana.jpg"
+        },
+        {
+          "name": "Manuel Menezes de Oliveira Neto",
+          "education": "Ph.D. in Computer Sciene, University of North Carolina at Chapel Hill, USA (2000)",
+          "fieldsOfStudy": [
+            "Computer graphics",
+            "Image processing",
+            "Computer vision",
+            "Pattern Recognition",
+            "Machine Learning"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~oliveira",
+          "photoUrl": "manuel.jpg"
+        },
+        {
+          "name": "Marcelo Walter",
+          "education": "Ph.D. in Computer Science, University of British Columbia, Canada (1999)",
+          "fieldsOfStudy": [
+            "Computer graphics",
+            "Modeling of natural phenomena",
+            "Simulation"
+          ],
+          "webPage": "https://www.inf.ufrgs.br/~mwalter",
+          "photoUrl": "walter.png"
+        }
+    ]
+}

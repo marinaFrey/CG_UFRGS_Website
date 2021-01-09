@@ -1,0 +1,17 @@
+<a class="portfolio-item mx-auto" [href]="professor.webPage" target="_blank">
+    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+        <div class="portfolio-item-caption-content text-center text-white">
+            <i class="fas fa-external-link-alt fa-3x"></i>
+            <br />
+            {{ professor.name }}
+        </div>
+    </div>
+    <img class="img-fluid" src="assets/img/photos/{{professor.photoUrl}}" alt="{{professor.name}}'s photo'" />
+</a>
+<div>
+    <a class="name">{{ professor.name }}</a>
+    <br />
+    <a class="education" style="margin: 0;">{{ professor.education }}</a>
+    <br />
+    <span *ngFor="let field of professor.fieldsOfStudy" class="badge badge-secondary">{{field}}</span>
+</div>

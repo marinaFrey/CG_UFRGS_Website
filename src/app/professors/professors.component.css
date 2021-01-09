@@ -1,0 +1,15 @@
+
+
+@media (min-width: 1200px) {
+    .professors {
+        margin: 100px !important;
+        margin-bottom: 0 !important; 
+    }
+}
+
+@media only screen and  (max-width: 580px) and (min-width: 400px) {
+    .professors {
+        margin: 100px !important; 
+        margin-bottom: 0 !important;
+    }
+}
